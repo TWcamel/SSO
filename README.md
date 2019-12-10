@@ -1,5 +1,5 @@
 # SSO
-This is a simple implementation of Simplify Swarm Optimization 
+This is a simple implementation of Simplify Swarm Optimization and add Multiprocessing function
 
 ## Run
 
