@@ -2,6 +2,10 @@
 如果我們有許多的工作要分給多個 CPU 核心做運算，
 最簡單的方式就是使用佇列的方式，讓多個 CPU 
 可從佇列中取得尚未處理的工作來處理：
+
+If we have a lot of work to be divided into multiple CPU cores to do calculations,
+The easiest way is to use a queue to allow multiple CPUs
+You can get the unprocessed work from the queue to handle:
 '''
 
 
